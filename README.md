@@ -2,5 +2,5 @@ This project is about simple_shell commands interpreter that can take inputs as 
 
 This is developed by:
 
-Teklewoyn Erdachew
-Selamawit G/yohannis
+1. Teklewoyn Erdachew
+2. Selamawit G/yohannis
